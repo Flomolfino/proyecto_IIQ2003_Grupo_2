@@ -1,1 +1,12 @@
-
+En este directorio, se encuentran 11 imagenes, las cuales son:
+- "Esquema.png"
+- "Imagen 1.png"
+- "Imagen 2.png"
+- "Imagen 3.png"
+- "Imagen 4.png"
+- "Imagen 5.png"
+- "f1.png"
+- "f2.png"
+- "f3.png"
+- "f4.png"
+- "f5.png"
