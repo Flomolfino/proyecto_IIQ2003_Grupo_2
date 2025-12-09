@@ -1,2 +1,3 @@
-Este es el README de la carpeta de datos. Aquí deben de explicar que son los archivos que van dentro de esta carpeta. 
-recuerden usar nombres explicativos para los archivos. 
+En este directorio (el de nombre "Datos"), se encuentra un archivo de nombre "G(t)_T(t)_FdT.csv".
+Este archivo (de formato csv), es aquel que **es necesario entregarle al código** para poder reproducir los resultados.
+
